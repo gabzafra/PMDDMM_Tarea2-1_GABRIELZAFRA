@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">tarea21</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="regButtonText">Registrarme</string>
+    <string name="welcome_msg">se le ha registrado en la modalidad</string>
+    <string name="online">online</string>
+    <string name="presencial">presencial</string>
+    <string-array name="modes_array">
+        <item>presencial</item>
+        <item>online</item>
+    </string-array>
+</resources>
